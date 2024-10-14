@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384440015893",
+    "project_id": "enhanced-flappy",
+    "storage_bucket": "enhanced-flappy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384440015893:android:c4f8ff9f32f0aff597021c",
+        "android_client_info": {
+          "package_name": "com.enhanceflappy.enhanced_flappy_bird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA05RN_VNndv-oUwkCaRKQgJtlqWj_VVtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384440015893:android:18636468a5604a9597021c",
+        "android_client_info": {
+          "package_name": "com.prabhashi.enhanced_flappy_bird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA05RN_VNndv-oUwkCaRKQgJtlqWj_VVtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
